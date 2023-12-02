@@ -1,3 +1,4 @@
 console.log("Olá Mundão")
 
-let nome = Marcos
+let nome = "Marcos"
+console.log(nome)
